@@ -3,7 +3,7 @@ import { Routes, Route, Link, Navigate } from "react-router-dom";
 
 // Seiten / Module
 import Dashboard from "./Dashboard";
-import Setup from "./Setup";
+import Setup from "./setup";
 import Wareneingang from "./modules/Wareneingang";
 import Lagerung from "./modules/Lagerung";
 import ErhitzungSpeisen from "./modules/ErhitzungSpeisen";
