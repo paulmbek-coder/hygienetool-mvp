@@ -1,0 +1,9 @@
+{
+  "wareneingang": true,
+  "kueche": true,
+  "theke": true,
+  "toiletten": "2",
+  "kuehlschraenke": "4",
+  "mitarbeiter": "Meier",
+  "schulung": true
+}
